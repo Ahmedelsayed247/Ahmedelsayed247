@@ -4,7 +4,8 @@
 
 ---
 
-### ⚡ About Me  
+### ⚡ About Me
+- 🔹 
 - 🔹 Passionate about building scalable and efficient backend systems.  
 - 🔹 Strong problem-solving skills with experience in **Java, Spring Boot, and SQL**.  
 - 🔹 Actively solving problems on **LeetCode** to sharpen my skills.  
@@ -13,13 +14,23 @@
 ---
 
 ### 🚀 Tech Stack  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)  
+
+#### 🖥️ Languages & Backend  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
+
+#### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+#### ☁️ Cloud & DevOps  
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+
+#### 🛠️ Tools & Others  
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
 
 ---
 
