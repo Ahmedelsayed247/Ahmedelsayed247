@@ -16,8 +16,8 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,angular,mongodb,postgres,django,dotnet" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,figma,docker,postman,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,github,mysql,mongodb,postgres,mssq,django,cs" />
+  <img src="https://skillicons.dev/icons?i=html,css,cpp,js,docker,postman,kubernetes" />
 </p>
 
 ---
@@ -28,9 +28,8 @@
 ---
 
 ### 📫 Connect With Me  
-🔹 **LeetCode**: [AhmedElSayed247](https://leetcode.com/u/ahmedelsayed247/)  
 📩 **Email**: [ahmedelsayedabdelaty4@gmail.com](mailto:ahmedelsayedabdelaty4@gmail.com)  
-💼 **LinkedIn**: [AhmedElSayed](https://www.linkedin.com/in/your-profile/)  
+💼 **LinkedIn**: [AhmedElSayed]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/ahmed-el-sayed-776a28233/))  
 
 ---
 
