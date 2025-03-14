@@ -3,6 +3,6 @@
 
 
 ### 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedelsayed247&show_icons=true&theme=dark)  
 
 🔗 **[leetCode](https://leetcode.com/u/ahmedelsayed247/)** | 📫 [Email](mailto:ahmedelsayedabdelaty4@gmail.com)  
