@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=FF5733&duration=4000&lines=Hello+World!+🌍;+I'm+Ahmed+El sayed!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=FF5733&duration=4000&lines=Hello+World!+🌍;+I'm+Ahmed+El+sayed!;" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="500">
 </p>
 
 
