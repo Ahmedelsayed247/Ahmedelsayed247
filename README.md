@@ -38,7 +38,7 @@
 
 ### 📫 Connect With Me  
 📩 **Email**: [ahmedelsayedabdelaty4@gmail.com](mailto:ahmedelsayedabdelaty4@gmail.com)  
-💼 **LinkedIn**: [AhmedElSayed]([https://www.linkedin.com/in/ahmed-el-sayed-776a28233/])  
+💼 **LinkedIn**: [Ahmed ElSayed](https://www.linkedin.com/in/ahmed-el-sayed-776a28233/)
 
 ---
 
